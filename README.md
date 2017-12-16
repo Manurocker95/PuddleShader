@@ -1,4 +1,4 @@
-# PuddleShader
+# Puddle Shader
 Puddle Shader for Unity 3D.
 
 This is a modification of the shader made by Carlos Zamora Azuaga: https://github.com/czazuaga/Unity_Shaders
